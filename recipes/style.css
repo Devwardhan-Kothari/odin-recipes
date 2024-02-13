@@ -1,0 +1,32 @@
+.heading {
+    color: rgb(134, 68, 99);
+    background-color: aqua;
+}
+
+img {
+    height: 1000px;
+    width: 800px;
+}
+
+#description {
+    font-weight: 600;
+}
+
+ul,
+ol {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+ul li {
+    background-color: black;
+    color: yellow;
+}
+
+ol li {
+    color: rgb(97, 255, 97);
+    background-color: purple;
+}
+
+p {
+    text-align: center;
+}
