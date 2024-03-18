@@ -1,7 +1,30 @@
 * {
     font-family: 'Trebuchet MS', sans-serif;
+    background-color: gold;
 }
 
 .list {
     font-size: 20px;
+}
+
+h1 {
+    padding: 5px;
+    text-align: center;
+    color: purple;
+}
+
+li {
+    margin: 20px;
+}
+
+span#first {
+    border: 2px solid red;
+}
+
+span#second {
+    border: 2px solid lime;
+}
+
+span#third {
+    border: 2px solid teal;
 }
